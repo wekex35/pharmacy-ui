@@ -1,0 +1,1 @@
+double sCPadding = 2; //Screen to Content Padding
